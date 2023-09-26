@@ -1,0 +1,13 @@
+.answer{
+    display: none;
+}
+.toggleButton{
+    background: cyan;
+    border-radius: 7px;
+    padding: 5px;
+}
+body{
+    text-align: center;
+    width: 320px;
+    margin: 0 auto;
+}
